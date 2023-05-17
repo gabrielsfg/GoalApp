@@ -13,5 +13,7 @@
     <color name="CadetGray">#9AA2AF</color>
     <color name="AppleGreen">#8EB545</color>
     <color name="Aquamarine">#9FFFCB</color>
+    <color name="colorAccent">#adcbe3</color>
+
 
 </resources>

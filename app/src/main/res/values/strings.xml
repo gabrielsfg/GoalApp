@@ -6,4 +6,5 @@
     <string name="noSaves">No Saving Goals.</string>
     <string name="goal_title">GOAL TITLE</string>
     <string name="new_goal">New Goal</string>
+    <string name="Add_Goal">ADD GOAL</string>
 </resources>
