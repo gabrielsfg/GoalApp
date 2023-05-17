@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GoalApp</string>
+    <string name="select_currency">Hello! Select a currency of your preference!</string>
+    <string name="start">Get Started</string>
+    <string name="currency_btn">Select a Currency</string>
+    <string name="noSaves">No Saving Goals.</string>
+    <string name="goal_title">GOAL TITLE</string>
 </resources>
