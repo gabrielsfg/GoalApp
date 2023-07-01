@@ -7,4 +7,9 @@
     <string name="goal_title">GOAL TITLE</string>
     <string name="new_goal">New Goal</string>
     <string name="Add_Goal">ADD GOAL</string>
+    <string name="title_goal">Title</string>
+    <string name="target_goal">Target</string>
+    <string name="deadline">DeadLine</string>
+    <string name="notes">Notes(Optional)</string>
+    <string name="add_image">Add Image</string>
 </resources>

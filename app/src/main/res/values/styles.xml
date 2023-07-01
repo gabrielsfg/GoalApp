@@ -5,6 +5,14 @@
         <item name="colorPrimary">@color/BlueGreen</item>
         <item name="colorPrimaryDark">@color/Cerulean</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorHint">@color/CadetGray</item>
+
+        <!-- Defina a cor da linha inferior do TextInputLayout -->
+        <item name="colorControlNormal">@color/CadetGray</item>
+
+        <!-- Defina o espaçamento entre o hint e a borda do TextInputLayout -->
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
     </style>
 
     <style name="CustomNoActionBarTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
@@ -15,4 +23,5 @@
         <item name="android:textColorPrimary">#FFFFFF</item>
         <item name="android:colorControlNormal">#FFFFFF</item>
     </style>
+
 </resources>
