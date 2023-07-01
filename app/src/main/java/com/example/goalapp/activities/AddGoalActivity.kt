@@ -1,14 +1,12 @@
-package com.example.goalapp
+package com.example.goalapp.activities
 
 import android.app.DatePickerDialog
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import android.widget.ImageView
-import androidx.appcompat.widget.AppCompatButton
+import com.example.goalapp.R
 import com.example.goalapp.databinding.ActivityAddGoalBinding
-import com.example.goalapp.databinding.ActivityGoalBinding
 import java.text.SimpleDateFormat
 import java.util.*
 

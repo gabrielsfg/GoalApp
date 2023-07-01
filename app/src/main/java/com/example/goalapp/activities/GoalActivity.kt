@@ -1,4 +1,4 @@
-package com.example.goalapp
+package com.example.goalapp.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

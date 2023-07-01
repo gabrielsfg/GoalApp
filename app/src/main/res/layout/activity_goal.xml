@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".GoalActivity">
+    tools:context=".activities.GoalActivity">
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/new_goal_btn"
@@ -18,6 +18,24 @@
         android:textSize="16sp"
         android:padding="10dp"
         android:drawableLeft="@drawable/ic_baseline_add_24"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No Goal yet"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@color/black"
+        />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_goal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
         />
 
 </FrameLayout>

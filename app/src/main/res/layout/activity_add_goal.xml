@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".AddGoalActivity"
+    tools:context=".activities.AddGoalActivity"
     >
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar_add_goal"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="@color/Cerulean"
+        android:background="@color/Aquamarine"
         android:theme="@style/CustomToolbarStyle"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
